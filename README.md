@@ -13,7 +13,7 @@ DeepL APIを使用したExcelファイル翻訳CLIツール。対話型インタ
 ## インストール方法
 
 ```bash
-https://github.com/Soukur/ExcelColumnsTranslator.git
+git clone https://github.com/Soukur/ExcelColumnsTranslator.git
 cd excel-translator
 pip install -r requirements.txt
 ```
